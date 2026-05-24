@@ -3,7 +3,8 @@
 **OBJETIVE:**
 Identify usage patterns, detect atypical behaviors, and understand which customer segments exhibit differentiated needs, in order to optimize the commercial offer and improve the user experience.
 
-**Databases used
+**Databases used**
+
 plans.csv: Current plans (price, included minutes, included GB, cost per extra).
 users_latam.csv: Customer information: age, city, registration date, plan subscribed to.
 usage.csv: Actual usage details: calls (duration) and messages (length).
